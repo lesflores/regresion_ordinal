@@ -28,9 +28,9 @@ summary(modelo_ordinal)
 # Descripción de las variables predictoras:
 # BF = En una escala del 1 al 10, ¿Cuál es el nivel de confianza que tiene usted sobre el actual gobierno municipal? 
 # BL = ¿Cómo evaluaría a su municipio en los siguientes atributos? Capacidad técnica y resolución de problemas
-# BM = ¿Cómo evaluaría a su municipio en los siguientes atributos? Imparcialidad (trabaja para todos)
+# BM = ¿Cómo evaluaría a su municipio en los siguientes atributos? Imparcialidad (trabaja para todxs)
 # BN = ¿Cómo evaluaría a su municipio en los siguientes atributos? Transparencia y difusión de información
-# B: Sexo (Masculino/Femenino)
+# B: Género (Masculino/Femenino/Otro)
 # C: Edad (Grupos de edad)
 
 
